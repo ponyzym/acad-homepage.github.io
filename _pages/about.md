@@ -31,9 +31,9 @@ Zhiyuan Ma is a postdoctoral fellow in the Department of Electronic Engineering 
 - *2021.08*: &nbsp;🎉 Two papers are accepted by EMNLP 2021, one of which is the main track paper and the other is findings.
 
 # 🧑‍🏫 Projects
-- *2024.08*: &nbsp;🎉 Obtained funding for the National Natural Science Foundation (NSFC) Youth Project (No.62406161), 国家自然科学基金青年项目.
-- *2023.12*: &nbsp;🎉 Selected as the principal investigator for the Nationally Funded Postdoctoral Researcher Program (No.GZB20230347), 国家资助博士后研究人员计划(B档).
-- *2023.11*: &nbsp;🎉 Received a fellowship award from the China Postdoctoral Science Foundation (Certificate Number: 2023M741950), 中国博士后科学基金第74批面上资助.
+- *2024.08*: &nbsp; National Natural Science Foundation (NSFC) Youth Project (No.62406161), 国家自然科学基金青年项目.
+- *2023.12*: &nbsp; Nationally Funded Postdoctoral Researcher Program (No.GZB20230347), 国家资助博士后研究人员计划(B档).
+- *2023.11*: &nbsp; Fellowship from the China Postdoctoral Science Foundation (No.2023M741950), 中国博士后科学基金第74批面上资助.
 
 # 📑 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='pub_images/neural-rdm.png' alt="sym" width="100%"></div></div>
