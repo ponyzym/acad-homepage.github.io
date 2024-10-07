@@ -99,7 +99,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='pub_images/hybrid-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='pub_images/hybrid-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HybridPrompt: bridging language models and human priors in prompt tuning for visual question answering]([https://ojs.aaai.org/index.php/AAAI/article/view/26569])
@@ -113,7 +113,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='pub_images/cmal-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='pub_images/cmal-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cmal: A novel cross-modal associative learning framework for vision-language pre-training]([https://dl.acm.org/doi/abs/10.1145/3503161.3548292])
@@ -127,7 +127,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='pub_images/glaf-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='pub_images/glaf-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GLAF: global-to-local aggregation and fission network for semantic level fact verification]([https://aclanthology.org/2022.coling-1.155.pdf])
@@ -141,7 +141,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='pub_images/unitranser-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='pub_images/unitranser-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniTranSeR: A unified transformer semantic representation framework for multimodal task-oriented dialog system]([https://aclanthology.org/2022.acl-long.9.pdf])
@@ -155,7 +155,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='pub_images/irnet-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='pub_images/irnet-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Intention reasoning network for multi-domain end-to-end task-oriented dialogue]([https://aclanthology.org/2021.emnlp-main.174.pdf])
