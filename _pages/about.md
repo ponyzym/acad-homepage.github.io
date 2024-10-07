@@ -22,9 +22,11 @@ Zhiyuan Ma is a postdoctoral fellow in the Department of Electronic Engineering 
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉 Three papers are accepted by NeurIPS 2024.
-- *2024.08*: &nbsp;🎉 Received the good news of the National Natural Science Foundation Youth Project Funding！
+- *2024.08*: &nbsp;🎉 Received the news of the National Natural Science Foundation Youth Project Funding！
 - *2024.07*: &nbsp;🎉 One paper is accepted by ACM MM 2024.
 - *2023.12*: &nbsp;🎉 Three papers are accepted by AAAI 2024.
+
+# 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='pub_images/neural-rdm.png' alt="sym" width="100%"></div></div>
