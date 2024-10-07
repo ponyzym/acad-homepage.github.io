@@ -35,7 +35,7 @@ Zhiyuan Ma is a postdoctoral fellow in the Department of Electronic Engineering 
 - *2023.12*: &nbsp; Nationally Funded Postdoctoral Researcher Program (No.GZB20230347), 国家资助博士后研究人员计划（B档）.
 - *2023.11*: &nbsp; Fellowship from the China Postdoctoral Science Foundation (No.2023M741950), 中国博士后科学基金第74批面上资助.
 
-# 📑 Publications 
+# 📖 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='pub_images/neural-rdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -173,6 +173,10 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+
+# 📝 Selected Papers
+- <div class="badge">EMNLP 2021</div>
 
 
 
