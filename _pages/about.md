@@ -176,7 +176,18 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 # 📝 Selected Papers
-- <div class="badge">EMNLP 2021</div>
+- &nbsp; <div class="badge">EMNLP 2021</div> &nbsp; [Neural Residual Diffusion Models for Deep Scalable Vision Generation]([https://arxiv.org/pdf/2406.13215]). **Zhiyuan Ma**, Liangliang Zhao, Biqing Qi, Bowen Zhou.
+-
+-
+- [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking]([https://arxiv.org/pdf/2407.13188]). **Zhiyuan Ma**, Guoli Jia, Biqing Qi, Bowen Zhou.
+- [LMD: faster image reconstruction with latent masking diffusion]([https://ojs.aaai.org/index.php/AAAI/article/view/28209]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Bowen Zhou.
+- [AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing]([https://ojs.aaai.org/index.php/AAAI/article/view/28210]). **Zhiyuan Ma**, Guoli Jia, Bowen Zhou.
+- [Generative multi-modal knowledge retrieval with large language models]([https://ojs.aaai.org/index.php/AAAI/article/view/29837]). Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou, Jie Zhou.
+- [HybridPrompt: bridging language models and human priors in prompt tuning for visual question answering]([https://ojs.aaai.org/index.php/AAAI/article/view/26569]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li.
+- [Cmal: A novel cross-modal associative learning framework for vision-language pre-training]([https://dl.acm.org/doi/abs/10.1145/3503161.3548292]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li.
+- [GLAF: global-to-local aggregation and fission network for semantic level fact verification]([https://aclanthology.org/2022.coling-1.155.pdf]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li.
+- [UniTranSeR: A unified transformer semantic representation framework for multimodal task-oriented dialog system]([https://aclanthology.org/2022.acl-long.9.pdf]). **Zhiyuan Ma**, Jianjun Li, Guohui Li, Yongjing Cheng.
+- [Intention reasoning network for multi-domain end-to-end task-oriented dialogue]([https://aclanthology.org/2021.emnlp-main.174.pdf]). **Zhiyuan Ma**, Jianjun Li, Zezheng Zhang, Guohui Li, Yongjing Cheng.
 
 
 
