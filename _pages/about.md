@@ -97,7 +97,7 @@ Zhiyuan Ma is a postdoctoral fellow in the Department of Electronic Engineering 
 
 [Generative multi-modal knowledge retrieval with large language models]([https://ojs.aaai.org/index.php/AAAI/article/view/29837])
 
-Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou, Jie Zhou
+Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -179,10 +179,10 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 - ``NeurIPS 2024`` [Neural Residual Diffusion Models for Deep Scalable Vision Generation]([https://arxiv.org/pdf/2406.13215]). **Zhiyuan Ma**, Liangliang Zhao, Biqing Qi, Bowen Zhou.
 - ``NeurIPS 2024`` <span style="color:red">(Spotlight)</span> [Ultramedical: Building specialized generalists in biomedicine]([https://arxiv.org/pdf/2406.03949]). Kaiyan Zhang, Sihang Zeng, Ermo Hua, Ning Ding, Zhang-Ren Chen, **Zhiyuan Ma**, Haoxin Li, Ganqu Cui, Biqing Qi, Xuekai Zhu, Xingtai Lv, Hu Jinfang, Zhiyuan Liu, Bowen Zhou.
 - ``NeurIPS 2024`` [Exploring Adversarial Robustness of Deep State Space Models]([https://arxiv.org/pdf/2406.05532]). Biqing Qi, Yang Luo, Junqi Gao, Pengfei Li, Kai Tian, **Zhiyuan Ma**, Bowen Zhou.
-- ``ACM MM 2024`` [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking]([https://arxiv.org/pdf/2407.13188]). **Zhiyuan Ma**, Guoli Jia, Biqing Qi, Bowen Zhou.
+- ``ACM MM 2024`` [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking]([https://arxiv.org/pdf/2407.13188]). **Zhiyuan Ma**, Guoli Jia, et al.
 - ``AAAI 2024``  [LMD: faster image reconstruction with latent masking diffusion]([https://ojs.aaai.org/index.php/AAAI/article/view/28209]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Bowen Zhou.
 - ``AAAI 2024`` [AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing]([https://ojs.aaai.org/index.php/AAAI/article/view/28210]). **Zhiyuan Ma**, Guoli Jia, Bowen Zhou.
-- ``AAAI 2024``  [Generative multi-modal knowledge retrieval with large language models]([https://ojs.aaai.org/index.php/AAAI/article/view/29837]). Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou, Jie Zhou.
+- ``AAAI 2024``  [Generative multi-modal knowledge retrieval with large language models]([https://ojs.aaai.org/index.php/AAAI/article/view/29837]). Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, et al.
 - ``AAAI 2023`` <span style="color:red">(Oral)</span> [HybridPrompt: bridging language models and human priors in prompt tuning for visual question answering]([https://ojs.aaai.org/index.php/AAAI/article/view/26569]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li.
 - ``ACM MM 2022`` <span style="color:red">(Oral)</span> [Cmal: A novel cross-modal associative learning framework for vision-language pre-training]([https://dl.acm.org/doi/abs/10.1145/3503161.3548292]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li.
 - ``COLING 2022`` [GLAF: global-to-local aggregation and fission network for semantic level fact verification]([https://aclanthology.org/2022.coling-1.155.pdf]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Guohui Li.
