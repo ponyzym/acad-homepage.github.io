@@ -145,7 +145,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='pub_images/unitranser-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='pub_images/unitranser-3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniTranSeR: A unified transformer semantic representation framework for multimodal task-oriented dialog system]([https://aclanthology.org/2022.acl-long.9.pdf])
