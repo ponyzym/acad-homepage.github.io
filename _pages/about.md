@@ -57,7 +57,7 @@ Zhiyuan Ma is a postdoctoral fellow in the Department of Electronic Engineering 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='pub_images/lmd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='pub_images/lmd-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LMD: faster image reconstruction with latent masking diffusion]([https://ojs.aaai.org/index.php/AAAI/article/view/28209])
