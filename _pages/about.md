@@ -176,24 +176,15 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-
-
-
-
-
-
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* One of the best papers in the first HUST-CS annual academic conference.
+- *2023.05* Zhiyin Pillar Student Academic Research Award (the only one in the college).
+- *2022.10* Doctoral National Scholarship Honors, Zhiyin Student Scholarship and Three Good Graduate Student Honors.
+- *2021.10* BIGO Enterprise Scholarship, Guanghua Scholarship, Outstanding Graduate Student Leader.
 
 # 🎓 Educations
 - *2023.07 - 2025.07 (now)*, Postdoctoral fellow, Tsinghua University, Beijing, China. 
 - *2019.09 - 2023.06*, PhD student, Huazhong University of Science and Technology, Wuhan, Hubei, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *None*
