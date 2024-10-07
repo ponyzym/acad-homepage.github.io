@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhiyuan Ma is a postdoctoral fellow in the Department of Electronic Engineering at Tsinghua University <img src='./images/tsinghua.jpg' style='width: 6em;'> and a **recipient of the National Natural Science Foundation of China** Youth Fund. His co-supervisor is Professor [Bowen Zhou (周伯文)](https://scholar.google.com.hk/citations?hl=zh-CN&user=h3Nsz6YAAAAJ). 
+Zhiyuan Ma is a postdoctoral fellow in the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/) at Tsinghua University <img src='./images/tsinghua.jpg' style='width: 6em;'> and a **recipient of the National Natural Science Foundation of China** Youth Fund. His co-supervisor is Professor [Bowen Zhou (周伯文)](https://scholar.google.com.hk/citations?hl=zh-CN&user=h3Nsz6YAAAAJ). 
 
 As the person in charge, he presided over a number of national natural science projects, postdoctoral general projects, and postdoctoral national funding plan projects, and also participated in a number of major projects of the Ministry of Science and Technology in 2030. He was also a member of ACL, ACM, CCF professional member, member of the Beijing Zhiyuan BAAI-Qingyuan research group, and reviewer of top international journals and conferences such as TNNLS, ICLR, ICML, NeurIPS, ACL, EMNLP, COLING, NAACL, AAAI, ECAI, CIKM, etc. 
 
