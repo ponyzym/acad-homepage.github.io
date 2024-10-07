@@ -127,7 +127,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='pub_images/glaf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2022</div><img src='pub_images/glaf-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GLAF: global-to-local aggregation and fission network for semantic level fact verification]([https://aclanthology.org/2022.coling-1.155.pdf])
@@ -141,7 +141,7 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='pub_images/unitranser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='pub_images/unitranser-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniTranSeR: A unified transformer semantic representation framework for multimodal task-oriented dialog system]([https://aclanthology.org/2022.acl-long.9.pdf])
