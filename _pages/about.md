@@ -176,9 +176,9 @@ Xinwei Long, Jiali Zeng, Fandong Meng, **Zhiyuan Ma**, Kaiyan Zhang, Bowen Zhou,
 
 
 # 📝 Selected Papers
-- <div class="badge">NeurIPS 2024</div> &nbsp; [Neural Residual Diffusion Models for Deep Scalable Vision Generation]([https://arxiv.org/pdf/2406.13215]). **Zhiyuan Ma**, Liangliang Zhao, Biqing Qi, Bowen Zhou.
-- <div class="badge">NeurIPS 2024</div> &nbsp; [Ultramedical: Building specialized generalists in biomedicine]([https://arxiv.org/pdf/2406.03949]). Kaiyan Zhang, Sihang Zeng, Ermo Hua, Ning Ding, Zhang-Ren Chen, **Zhiyuan Ma**, Haoxin Li, Ganqu Cui, Biqing Qi, Xuekai Zhu, Xingtai Lv, Hu Jinfang, Zhiyuan Liu, Bowen Zhou.
-- <div class="badge">NeurIPS 2024</div> &nbsp; [Exploring Adversarial Robustness of Deep State Space Models]([https://arxiv.org/pdf/2406.05532]). Biqing Qi, Yang Luo, Junqi Gao, Pengfei Li, Kai Tian, **Zhiyuan Ma**, Bowen Zhou.
+- <div><div class="badge">NeurIPS 2024</div></div> [Neural Residual Diffusion Models for Deep Scalable Vision Generation]([https://arxiv.org/pdf/2406.13215]). **Zhiyuan Ma**, Liangliang Zhao, Biqing Qi, Bowen Zhou.
+- <div class="badge">NeurIPS 2024</div>  [Ultramedical: Building specialized generalists in biomedicine]([https://arxiv.org/pdf/2406.03949]). Kaiyan Zhang, Sihang Zeng, Ermo Hua, Ning Ding, Zhang-Ren Chen, **Zhiyuan Ma**, Haoxin Li, Ganqu Cui, Biqing Qi, Xuekai Zhu, Xingtai Lv, Hu Jinfang, Zhiyuan Liu, Bowen Zhou.
+- <div class="badge">NeurIPS 2024</div> [Exploring Adversarial Robustness of Deep State Space Models]([https://arxiv.org/pdf/2406.05532]). Biqing Qi, Yang Luo, Junqi Gao, Pengfei Li, Kai Tian, **Zhiyuan Ma**, Bowen Zhou.
 - <div class="badge">AAAI 2024</div> [Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking]([https://arxiv.org/pdf/2407.13188]). **Zhiyuan Ma**, Guoli Jia, Biqing Qi, Bowen Zhou.
 - <div class="badge">AAAI 2024</div> [LMD: faster image reconstruction with latent masking diffusion]([https://ojs.aaai.org/index.php/AAAI/article/view/28209]). **Zhiyuan Ma**, Zhihuan Yu, Jianjun Li, Bowen Zhou.
 - <div class="badge">AAAI 2024</div> [AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing]([https://ojs.aaai.org/index.php/AAAI/article/view/28210]). **Zhiyuan Ma**, Guoli Jia, Bowen Zhou.
